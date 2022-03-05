@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chupakabrito
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on opensource pprojects
+- 💞️ I’m looking to collaborate on opensource projects
 
 <!---
 chupakabrito/chupakabrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
