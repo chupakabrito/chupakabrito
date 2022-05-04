@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chupakabrito</h1>
-<h3 align="center">Don't Waste My Time</h3>
 
 <br>
 
 <br>
 
-<p>  <a href="https://app.daily.dev/Chupakabrito"><img src="https://api.daily.dev/devcards/157736f702594d29b814b43478ac86b2.png?r=6iu" width="250" alt="Chupakabrito's Dev Card"/></a></p>
+<p align="right">  <a href="https://app.daily.dev/Chupakabrito"><img src="https://api.daily.dev/devcards/157736f702594d29b814b43478ac86b2.png?r=6iu" width="250" alt="Chupakabrito's Dev Card"/></a></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
